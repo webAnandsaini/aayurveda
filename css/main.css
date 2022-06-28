@@ -281,15 +281,22 @@ header .right {
   padding: 30px 0;
 }
 
-.second .inner .left2 {
+.second .inner .left2{
   width: 50%;
   padding: 30px 0px;
+  
 }
 
-.second .inner .left2 img {
+.second .inner .lefts{
+  width: 50%;
+  padding: 30px 0px;
+  text-align: center;
+}
+
+.second .inner .leftsd img {
   width: 70%;
   height: 80vh;
-  padding-left: 10%;
+  
 }
 
 .second .inner .left2 h3 {
@@ -803,11 +810,15 @@ button:hover {
     padding: 30px 0px;
     text-align: center;
   }
-  .second .inner .left2 img {
-    width: 70%;
-    height: 60vh;
-    padding: 0px;
-    margin:0px;
+
+  .second .inner .lefts{
+    width: 100%;
+    padding: 30px 0px;
+    text-align: center;
+  }
+  .second .inner .lefts img {
+    width: 60%;
+    height: 80vh;
   }
   .third .store .box {
     width: 100%;
